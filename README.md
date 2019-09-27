@@ -15,6 +15,6 @@ These are the rules to compute the next generation.
 - If an empty cell has exactly three neighbors, it will come to life in the next generation. 
 - All other cells will stay the same in the next generation. 
 
-To load this code, install Crystal and run crystal play from the directory with this read.me. 
+To load this code, install Crystal and run `crystal play` from the directory with this read.me. 
 
 
